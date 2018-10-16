@@ -1,0 +1,7 @@
+//To obtain a key for the OpenWeatherMap API, you'll need to register by creating an account. Once you've created your account, you can visit the API Keys page to generate a key.
+//
+//Please note: API keys can take approximately 10 minutes to be activated. So, if your API requests fail due to an invalid key, make sure that you've waited the appropriate amount of time for them to be activated.
+
+{
+  "key": "<enter your API KEY here>"
+}
